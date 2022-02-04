@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de projeto sobre Git/GitHub
+# DIO - MRV Developer
+Desafio do projeto sobre Git/GitHub
